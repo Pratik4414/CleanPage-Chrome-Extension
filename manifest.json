@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "CleanPage",
+  "version": "1.0.0",
+  "description": "Remove distractions and unnecessary elements from webpages.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
